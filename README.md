@@ -1,6 +1,4 @@
-# Git Training
-## Introdução
-Nesse código estamos testando o uso do git do GitHub
+# Learn git
 ## Comandos Básicos
 - git add "arquivo"
 - git commit -m "frase"
@@ -8,5 +6,3 @@ Nesse código estamos testando o uso do git do GitHub
 - git push
 ## Comandos Extras
 - git clone <link>
-## Conclusão
-Existem muitos conflitos que podem acontecer quando estamos juntando códigos que tem diferentes implementações
